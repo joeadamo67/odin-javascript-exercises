@@ -3,3 +3,6 @@ const reverseString = function (string) {
 };
 
 module.exports = reverseString;
+
+
+//reverseString('hello there') // returns 'ereht olleh'
